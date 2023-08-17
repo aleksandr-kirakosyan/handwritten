@@ -1,0 +1,2 @@
+You need to download -> npm install express handwritten.js fs 
+For runing -> node app.js
